@@ -13,13 +13,13 @@ body {
   width: 285px;
 }
 
-.jumbotron {
-  background-image: url("../image/sunset-2160352_1920.jpg");
+.background {
+ background-image: url("../image/sunset-2160352_1920.jpg");
   -webkit-background-size: cover;
      -moz-background-size: cover;
         background-size: cover;
-  height: 100%; 
-}
+  height: 100%;	
+}  
 
 .jumbotron h2 {
   color: #636366;
