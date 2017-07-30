@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url ("sunset-2160352_1920.jpg"); 
+  background-image: url("sunset-2160352_1920.jpg"); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
@@ -30,7 +30,7 @@ body {
 }
 
 .jumbotron  h4 {
-  color: 	#636366;
+  color: #636366;
   text-align: left;
   margin-left: 20px;
   font-size: 20px;
