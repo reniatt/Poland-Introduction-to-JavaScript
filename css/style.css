@@ -59,6 +59,7 @@ body {
 
 .content {
   width: 850px;
+  height: 700px;
   margin: 10px auto;
   background: #000;
   border: 1px solid #708090;
