@@ -22,13 +22,13 @@ body {
           background-size: cover;
 }
 
-.jumbotron  h2 {
+.jumbotron h2 {
   color: #636366;
   text-align: center;
   text-transform: lowercase;
 }
 
-.jumbotron  h4 {
+.jumbotron h4 {
   color: #636366;
   text-align: left;
   margin-left: 20px;
@@ -45,20 +45,20 @@ body {
           background-size: cover;
 }
 
-.jumbotron_2  h2 {
+.jumbotron_2 h2 {
   color: #636366;
   text-align: center;
   text-transform: lowercase;
 }
 
-.jumbotron_2  h4 {
+.jumbotron_2 h4 {
   color: #636366;
   text-align: left;
   margin-left: 20px;
   font-size: 20px;
 }
 
-.jumbotron_2  img {
+.jumbotron_2 img {
   margin-left: 240px;
   margin-top: 30px;
   margin-bottom: 50px;
