@@ -18,7 +18,6 @@ body {
   height: 100%; 
   -webkit-background-size: cover;
      -moz-background-size: cover;
-        -o-background-size: cover;
           background-size: cover;
 }
 
@@ -38,10 +37,8 @@ body {
 .jumbotron_2 {
   background: #000; 
   height: 100%;
-  overflow: scroll;
   -webkit-background-size: cover;
      -moz-background-size: cover;
-	-o-background-size: cover;
           background-size: cover;
 }
 
