@@ -1,5 +1,4 @@
 body {
-  background-image: url("../image/sunset-2160352_1920.jpg");
   left: 0;
   margin: 0;
   overflow: hidden;
@@ -15,8 +14,8 @@ body {
 }
 
 .jumbotron {
-  height: 100%;
-  position: fixed; 
+  background-image: url("../image/sunset-2160352_1920.jpg");
+  height: 100%; 
   -webkit-background-size: cover;
      -moz-background-size: cover;
         -o-background-size: cover;
@@ -41,6 +40,8 @@ body {
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
+	-o-background-size: cover;
+          background-size: cover;
 }
 
 .jumbotron_2  h2 {
