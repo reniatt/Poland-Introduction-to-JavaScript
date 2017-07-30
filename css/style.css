@@ -14,9 +14,9 @@ body {
 }
 
 .jumbotron {
-  background-image: url("../image/sunset-2160352_1920.jpg");
-  background-size: cover;
-  height: 1000px; 
+  background-image: url("../image/sunset-2160352_1920.jpg") repeat;
+  background-size: contain;
+  height: 100%; 
 }
 
 .jumbotron h2 {
@@ -34,7 +34,7 @@ body {
 
 .jumbotron_2 {
   background: #000; 
-  background-size: cover;
+  background-size: contain;
   height: 100%;
 }
 
