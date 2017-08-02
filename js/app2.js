@@ -23,6 +23,6 @@ var main = function() {
   }
   
   window.onload = changeImg;
-}
+
   
 $(main);
