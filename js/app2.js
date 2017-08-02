@@ -1,5 +1,3 @@
-var main = function() {
- 
   var i = 0;
   var images = [];
   var time = 4000;
@@ -21,8 +19,7 @@ var main = function() {
   
   setTimeout('changeImg()', time);
   }
-}
+
   window.onload = changeImg;
 
-  
 $(main);
